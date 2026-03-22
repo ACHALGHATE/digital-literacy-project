@@ -1,24 +1,16 @@
 # Digital Literacy Project
 
-##  Problem
-Many people lack basic digital skills which limits their access to online services, education, and job opportunities.
+## Name: Achal Ghate
 
-##  Solution
-This project aims to provide simple, interactive, and easy-to-understand digital literacy resources.
+## Overview
+This project is based on digital literacy skills including online safety, communication, and digital tools. It was completed as part of the CSE0001 course.
 
-##  Features
-- Basic computer knowledge
-- Internet safety tips
-- Online tools guide
-- Beginner-friendly tutorials
+## Tasks Completed
+- Task 1: Infographic on Digital Literacy  
+- Task 2: Digital Portfolio (GitHub, LinkedIn, HackerRank)  
+- Task 3: Coding Practice and Google Form  
+- Task 4: Professional Emails and Social Media Checklist  
+- Task 5: Cybercrime Case Study and Prevention Guide  
 
-##  Tech Stack
-(To be decided)
-
-##  Team
-- Your Name
-- Team Members
-
-##  Future Scope
-- AI-based learning assistant
-- Multi-language support
+## Google Form Link
+(https://docs.google.com/forms/d/e/1FAIpQLSekQJs8Iz66To_gIJvGg7BnE-arhc17V6tEJgV9wi1GBOap5g/viewform?usp=publish-editor)
